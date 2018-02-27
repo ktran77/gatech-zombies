@@ -1,0 +1,14 @@
+{
+  "name": "mapbox-vip",
+  "version": "1.0.0",
+  "description": "For mapbox and vip2 work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kathy Tran",
+  "license": "ISC",
+  "dependencies": {
+    "mapbox-gl": "^0.44.1"
+  }
+}
